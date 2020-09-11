@@ -1,0 +1,6 @@
+pandas
+plotly==4.9.0
+dash
+numpy
+statsmodels
+textwrap3
